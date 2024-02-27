@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Mooshieblob1/Mooshieblob1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi, I'm Blob 👋 
+Data wrangler by day, code tinkerer by night, amorphous blob... most of the time.
+
+## About Me
+* I am a data scientist working on several different projects related to AI.
+* I am passionate about AI Art, Web development and Python related projects.
+* My goals are to create a fully autonomous LLM.
+
+## Tech Stack
+* **Languages:** Python, JavaScript, HTML, CSS
+* **Frameworks/Libraries:** React, Django, Node.js, ... 
+* **Tools:** Git, VS Code, Postman, ...
