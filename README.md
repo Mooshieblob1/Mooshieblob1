@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hey, I'm Blob ⚡
 
-<!--
-**Mooshieblob1/Mooshieblob1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Front-end developer from Australia 🇦🇺  
+Passionate about anime, Svelte, and building cool UI things
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://skillicons.dev/icons?i=svelte,tailwind,typescript,supabase,firebase,postgresql&theme=dark" width="400" />
+
+## 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mooshieblob1&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mooshieblob1&show_icons=true&theme=dark)
