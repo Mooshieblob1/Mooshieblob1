@@ -29,5 +29,5 @@ Passionate about anime, Svelte, and building cool UI things
 
 
 ## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mooshieblob1&layout=compact&theme=dark&hide=csharp,html,css)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mooshieblob1&layout=compact&theme=dark&exclude_repo=csharp-collections-and-linq)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mooshieblob1&show_icons=true&theme=dark)
