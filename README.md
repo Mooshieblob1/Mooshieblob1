@@ -1,7 +1,6 @@
 # Hey, I'm Blob ⚡
 
 Front-end developer from Australia 🇦🇺  
-Currently living in Japan!
 Passionate about anime, Svelte, and building cool UI things
 
 ## 🛠 Tech Stack
